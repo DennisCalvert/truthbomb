@@ -225,6 +225,7 @@ img {
 
 .ad {
   max-width: 468px;
+  width: 100%;
   border: 2px solid red;
   display: block;
   margin: 0 auto;
